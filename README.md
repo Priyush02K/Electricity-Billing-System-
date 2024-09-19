@@ -39,7 +39,7 @@ cd Electricity-Billing-System-
     -Update the database connection details in the Java code.
     -Run the project from your IDE.
 
-##Usage
+## Usage
 1. Login to the system using the credentials.
 2. Add Customer: Input customer details like name, address, and meter number.
 3. Enter Units Consumed: Input the number of units consumed for the customer.
